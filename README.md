@@ -24,8 +24,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 📊 Most used:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
-
 ## 📄 My resume:
 [See my resume!](https://drive.google.com/file/d/1qjBfILl-JP9VIWYPqlMoYXWhPRiKzbB3/view?usp=sharing)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alinelimasl&layout=compact&theme=dark)
